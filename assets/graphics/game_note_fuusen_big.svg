@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g id="fuusen_big">
+        <circle id="Circle_Outter" cx="80" cy="80" r="80" style="fill:rgb(29,29,29);"/>
+        <ellipse id="Circle_Middle" cx="80" cy="80" rx="75" ry="75.213" style="fill:rgb(255,196,0);"/>
+        <g id="Circle_Inner_Highlights">
+            <path d="M80.019,4.787C119,5 155,35 155,80C155,124 119.461,154.356 80.019,155.213L80.019,4.787Z" style="fill:rgb(255,127,0);fill-opacity:0.5;"/>
+        </g>
+        <g id="Circle_Inner_Lines" transform="matrix(1.01129,0,0,1.01129,-0.903509,-0.846883)">
+            <path d="M80,5.571C80.066,55.153 79.934,104.736 80,154.318" style="fill:none;fill-rule:nonzero;stroke:rgb(193,132,0);stroke-width:3px;"/>
+        </g>
+    </g>
+</svg>
